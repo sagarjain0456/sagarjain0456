@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sagar31014332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sagar31014332" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sagar jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sagar jain" height="30" width="40" /></a>
+<a href="https://twitter.com/sagar31014332" target="blank"><img align="center" src="https://www.instagram.com/sagarjain72/?hl=en" alt="sagar31014332" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
