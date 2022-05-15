@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sagar31014332" target="blank"><img align="center" src="https://www.instagram.com/sagarjain72/?hl=en" alt="sagar31014332" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sagarjain72/?hl=en" target="blank"><img align="center" src="https://www.instagram.com/sagarjain72/?hl=en" alt="sagar31014332" height="30" width="40" /></a>
 
 </p>
 
