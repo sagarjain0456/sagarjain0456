@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarjain0456" alt="sagarjain0456" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sagar31014332" target="blank"><img src="https://img.shields.io/twitter/follow/sagar31014332?logo=twitter&style=for-the-badge" alt="sagar31014332" /></a> </p>
+
 
 - 🔭 I’m currently working on [K.R Mangalam Campus Navigation Project](https://sagarjain0456.github.io/krmu-campus-navigate/)
 
