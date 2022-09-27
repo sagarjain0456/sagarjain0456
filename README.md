@@ -2,9 +2,9 @@
 <h3 align="center">A Creative Full Stack Developer From India</h3>
 
 
-- 🔭 I’m currently working on [K.R Mangalam Campus Navigation Project](https://sagarjain0456.github.io/krmu-campus-navigate/)
+- 🔭 I’m currently learning React.js
 
-- 🌱 I’m currently learning **Authentication and Security Part Of the Web Development.**
+- 🌱 I’m currently working on **Live Payment Gateway via RazorPay**
 
 - 👯 I’m looking to collaborate on [K.R Mangalam Campus Navigation Project](https://sagarjain0456.github.io/krmu-campus-navigate/)
 
