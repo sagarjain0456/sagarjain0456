@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sagar Jain</h1>
 <h3 align="center">A Creative Full Stack Developer From India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarjain0456&label=Profile%20views&color=0e75b6&style=flat" alt="sagarjain0456" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarjain0456" alt="sagarjain0456" /></a> </p>
-
-
 
 - 🔭 I’m currently working on [K.R Mangalam Campus Navigation Project](https://sagarjain0456.github.io/krmu-campus-navigate/)
 
