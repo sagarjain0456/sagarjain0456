@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Frontend, Node Js, MongoDB**
 
-- 📫 Reach me at **sagarjain0456@gmail.com**
+- 📫 Reach me at **sagarjain01227@gmail.com**
 
 - ⚡ Fun fact **In type racing I type faster when I am listening to some music😂**
 
