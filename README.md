@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently working on **Live Payment Gateway via RazorPay**
 
-- 👯 I’m looking to collaborate on [K.R Mangalam Campus Navigation Project](https://sagarjain0456.github.io/krmu-campus-navigate/)
+- 👯 I’m looking for an Internship in full stack web development.
 
 - 💬 Ask me about **Frontend, Node Js, MongoDB**
 
