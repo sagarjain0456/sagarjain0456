@@ -1,18 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sagar Jain</h1>
-<h3 align="center">A Creative Full Stack Developer From India</h3>
 
-
-- 🔭 I’m currently learning React.js 
-
-- 🌱 I’m currently working on **Live Payment Gateway via RazorPay**
-
-- 🔭 I’m looking for an Internship in full stack web development.
-
-- 💬 Ask me about **Frontend, Node Js, MongoDB**
 
 - 📫 Reach me at **sagarjain01227@gmail.com**
 
-- ⚡ Fun fact **In type racing I type faster when I am listening to some music😂**
+
 
 
 </p>
